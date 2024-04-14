@@ -1,6 +1,7 @@
 package contains_duplicate
 
 func containsDuplicate(nums []int) bool {
+	// Best Solution
 	// Condition
 	// Valid: If Any Value Appears At Least Twice
 	visitedArray := make(map[int]bool, 0)
