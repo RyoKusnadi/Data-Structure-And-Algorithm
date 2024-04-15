@@ -13,3 +13,4 @@ Personal Documentation For Improving My DSA Skill Using Go
 # List To Do:
 - [ ] Re-Learn How Sort Works + How To Make it
 - [ ] Re-learn Basic Data Structure + How To Make It
+- [ ] Locking Mechanism
