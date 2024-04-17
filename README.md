@@ -2,8 +2,12 @@
 Personal Documentation For Improving My DSA Skill Using Go
 
 # Timeline
-<b> Arrays And Hashing</b>
 - Start Date: 14 April 2024 16:38 WIB  
+
+# Material
+- Array & Hashing
+- Data Structure
+- Sorting
 
 # What i learned:
 - Need To Explain The Code During Make It
