@@ -7,6 +7,8 @@ Personal Documentation For Improving My DSA Skill Using Go
 # Material
 - Array & Hashing
 - Data Structure
+  - Stack
+  - Queue
 - Sorting
 
 # What i learned:
